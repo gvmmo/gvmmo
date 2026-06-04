@@ -19,7 +19,7 @@ Técnico de Ciberseguridad con base en Barcelona. Me muevo entre los dos lados d
 
 - 🎓 Máster FP en Ciberseguridad — Institut Tecnològic de Barcelona
 - 💼 Helpdesk Technician · ex Técnico Sistemas y Redes (Proyecto Internacional — Bulgaria)
-- 🛠️ Co-desarrollador de **[Q-Gunter](https://q-gunter.cat)** — plataforma SaaS B2B de pentesting automatizado con agentes IA
+- 🛠️ Desarrollador de **[Q-Gunter](https://q-gunter.cat)** — plataforma SaaS B2B de pentesting automatizado con agentes IA
 - 🌐 Barcelona, España
 
 ---
@@ -73,8 +73,8 @@ Aplicación web OSINT desarrollada en AWS para recopilación y análisis de info
 
 | Estado | Certificación |
 |--------|--------------|
-| 🎯 En curso | eJPT — eLearnSecurity Junior Penetration Tester |
-| 🔜 Próximo | OSCP — Offensive Security Certified Professional |
+| En curso | eJPT — eLearnSecurity Junior Penetration Tester |
+| Próximo | OSCP — Offensive Security Certified Professional |
 
 ---
 
