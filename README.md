@@ -9,27 +9,27 @@
  ╚═════╝   ╚═══╝  ╚═╝     ╚═╝╚═╝     ╚═╝ ╚═════╝
 ```
 
-> *"Rollin’ & Scratchin’"*
+> *"Rollin' & Scratchin'"*
 
 ---
 
 ## whoami
 
-SysAdmin y Técnico de Ciberseguridad. Mi trayectoria viene de la administración de sistemas y redes, y estoy profundizando en ciberseguridad — tanto en el lado ofensivo (pentesting, análisis de vulnerabilidades) como en el defensivo (detección de amenazas, SIEM, respuesta a incidentes).
+SysAdmin & Cybersecurity Technician. My background comes from systems and network administration, and I'm deepening my skills in cybersecurity — both on the offensive side (pentesting, vulnerability analysis) and the defensive side (threat detection, SIEM, incident response).
 
 ---
 
 ## working_on
 
-- Manteniendo y evolucionando **[Q-Gunter](https://q-gunter.cat)** — plataforma SaaS B2B de pentesting automatizado con agentes de IA (Claude tool-use, Docker multi-tenant, arquitectura HA)
-- Desarrollando **[ThreatHunt](https://github.com/gvmmo/threathunt)** — plataforma OSINT para recopilación y análisis de información de fuentes abiertas, desplegada en AWS
-- Preparando certificación **eJPT** con camino hacia **OSCP**
+- Maintaining and evolving **[Q-Gunter](https://q-gunter.cat)** — B2B SaaS platform for automated pentesting with AI agents (Claude tool-use, Docker multi-tenant, HA architecture)
+- Building **[ThreatHunt](https://github.com/gvmmo/threathunt)** — OSINT web platform for open-source intelligence gathering and analysis, deployed on AWS
+- Working towards **eJPT** certification on the path to **OSCP**
 
 ---
 
-## 🔧 Stack Técnico
+## 🔧 Tech Stack
 
-**Seguridad Ofensiva**
+**Offensive Security**
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
@@ -42,21 +42,21 @@ SysAdmin y Técnico de Ciberseguridad. Mi trayectoria viene de la administració
 ![Qualys](https://img.shields.io/badge/Qualys-ED2224?style=flat-square&logoColor=white)
 ![Volatility](https://img.shields.io/badge/Volatility-555555?style=flat-square&logoColor=white)
 
-**Seguridad Defensiva / SIEM**
+**Defensive Security / SIEM**
 
 ![Wazuh](https://img.shields.io/badge/Wazuh-006DB6?style=flat-square&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
 ![Suricata](https://img.shields.io/badge/Suricata-EF3B2D?style=flat-square&logoColor=white)
-![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=flat-square&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=flat-square&logo=zabbix&logoColor=white)
 ![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elastic&logoColor=white)
 ![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat-square&logoColor=white)
 ![Iptables](https://img.shields.io/badge/Iptables-333333?style=flat-square&logoColor=white)
 ![Netskope](https://img.shields.io/badge/Netskope-00A1E0?style=flat-square&logoColor=white)
 ![Proofpoint](https://img.shields.io/badge/Proofpoint-0066CC?style=flat-square&logoColor=white)
 
-**Sistemas e Infraestructura**
+**Systems & Infrastructure**
 
-![Linux](https://img.shields.io/badge/Linux_Avanzado-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux_Advanced-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
@@ -69,7 +69,7 @@ SysAdmin y Técnico de Ciberseguridad. Mi trayectoria viene de la administració
 ![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white)
 ![DNS/DHCP](https://img.shields.io/badge/DNS%2FDHCP-0080FF?style=flat-square&logoColor=white)
 
-**Entornos Empresariales**
+**Enterprise Environments**
 
 ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Azure AD](https://img.shields.io/badge/Azure_AD-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
@@ -79,7 +79,7 @@ SysAdmin y Técnico de Ciberseguridad. Mi trayectoria viene de la administració
 ![Citrix](https://img.shields.io/badge/Citrix-452170?style=flat-square&logo=citrix&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
-**Lenguajes & IA**
+**Languages & AI**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
@@ -94,33 +94,33 @@ SysAdmin y Técnico de Ciberseguridad. Mi trayectoria viene de la administració
 
 ---
 
-## 🚀 Proyectos
+## 🚀 Projects
 
 ### 🐧 [Q-Gunter](https://q-gunter.cat)
-Plataforma SaaS B2B de pentesting automatizado con agentes de IA (Claude tool-use), arquitectura Docker multi-tenant y alta disponibilidad. Proyecto en activo desarrollo.
+B2B SaaS platform for automated pentesting with AI agents (Claude tool-use), Docker multi-tenant architecture and high availability. Actively in development.
 
 ### 🕵️ [ThreatHunt](https://github.com/gvmmo/threathunt)
-Aplicación web OSINT desarrollada en AWS para recopilación y análisis de información de fuentes abiertas. Integra herramientas como Subfinder, Wappalyzer, VirusTotal y WHOIS, con escaneos pasivos y activos configurables. Backend con MongoDB y sistema de autenticación de usuarios.
+OSINT web application built on AWS for open-source intelligence gathering and analysis. Integrates tools like Subfinder, Wappalyzer, VirusTotal and WHOIS, with configurable passive and active scans. MongoDB backend with user authentication system.
 
 ---
 
-## 📜 Certificaciones & Objetivos
+## 📜 Certifications & Goals
 
-| Estado | Certificación |
+| Status | Certification |
 |--------|--------------|
-| En curso | eJPT — eLearnSecurity Junior Penetration Tester |
-| Próximo | OSCP — Offensive Security Certified Professional |
+| 🎯 In progress | eJPT — eLearnSecurity Junior Penetration Tester |
+| 🔜 Next | OSCP — Offensive Security Certified Professional |
 
 ---
 
-## 🧩 Plataformas
+## 🧩 Platforms
 
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-@grum0-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/grum0)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-@gvmmo-212C42?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/gvmmo)
 
 ---
 
-## 🌐 Contacto
+## 🌐 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayman_Dghoughi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayman-dghoughi-nouri-a43204321)
 [![Email](https://img.shields.io/badge/Email-gvmmodafunk@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gvmmodafunk@gmail.com)
