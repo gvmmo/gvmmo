@@ -9,7 +9,7 @@
  ╚═════╝   ╚═══╝  ╚═╝     ╚═╝╚═╝     ╚═╝ ╚═════╝
 ```
 
-> *"The quieter you become, the more you can hear."*
+> *"Rollin’ & Scratchin’"*
 
 ---
 
@@ -19,11 +19,11 @@ SysAdmin y Técnico de Ciberseguridad. Mi trayectoria viene de la administració
 
 ---
 
-## `~/working_on`
+## working_on
 
-- 🚀 Manteniendo y evolucionando **[Q-Gunter](https://q-gunter.cat)** — plataforma SaaS B2B de pentesting automatizado con agentes de IA (Claude tool-use, Docker multi-tenant, arquitectura HA)
-- 🕵️ Desarrollando **[ThreatHunt](https://github.com/gvmmo/threathunt)** — plataforma OSINT para recopilación y análisis de información de fuentes abiertas, desplegada en AWS
-- 🎯 Preparando certificación **eJPT** con camino hacia **OSCP**
+- Manteniendo y evolucionando **[Q-Gunter](https://q-gunter.cat)** — plataforma SaaS B2B de pentesting automatizado con agentes de IA (Claude tool-use, Docker multi-tenant, arquitectura HA)
+- Desarrollando **[ThreatHunt](https://github.com/gvmmo/threathunt)** — plataforma OSINT para recopilación y análisis de información de fuentes abiertas, desplegada en AWS
+- Preparando certificación **eJPT** con camino hacia **OSCP**
 
 ---
 
@@ -96,7 +96,7 @@ SysAdmin y Técnico de Ciberseguridad. Mi trayectoria viene de la administració
 
 ## 🚀 Proyectos
 
-### 🚀 [Q-Gunter](https://q-gunter.cat)
+### 🐧 [Q-Gunter](https://q-gunter.cat)
 Plataforma SaaS B2B de pentesting automatizado con agentes de IA (Claude tool-use), arquitectura Docker multi-tenant y alta disponibilidad. Proyecto en activo desarrollo.
 
 ### 🕵️ [ThreatHunt](https://github.com/gvmmo/threathunt)
@@ -108,8 +108,8 @@ Aplicación web OSINT desarrollada en AWS para recopilación y análisis de info
 
 | Estado | Certificación |
 |--------|--------------|
-| 🎯 En curso | eJPT — eLearnSecurity Junior Penetration Tester |
-| 🔜 Próximo | OSCP — Offensive Security Certified Professional |
+| En curso | eJPT — eLearnSecurity Junior Penetration Tester |
+| Próximo | OSCP — Offensive Security Certified Professional |
 
 ---
 
