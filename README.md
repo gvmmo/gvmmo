@@ -108,8 +108,8 @@ OSINT web application built on AWS for open-source intelligence gathering and an
 
 | Status | Certification |
 |--------|--------------|
-| 🎯 In progress | eJPT — eLearnSecurity Junior Penetration Tester |
-| 🔜 Next | OSCP — Offensive Security Certified Professional |
+| In progress | eJPT — eLearnSecurity Junior Penetration Tester |
+| Next | OSCP — Offensive Security Certified Professional |
 
 ---
 
