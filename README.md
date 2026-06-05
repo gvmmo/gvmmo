@@ -9,18 +9,21 @@
  ╚═════╝   ╚═══╝  ╚═╝     ╚═╝╚═╝     ╚═╝ ╚═════╝
 ```
 
-> *"Rollin’ & Scratchin’"*
+> *"The quieter you become, the more you can hear."*
 
 ---
 
 ## whoami
 
-Técnico de Ciberseguridad con base en Barcelona. Me muevo entre los dos lados del tablero: entender cómo se rompen los sistemas y cómo defenderlos. Actualmente trabajando en seguridad ofensiva y defensiva, con foco en pentesting, análisis de amenazas y automatización con IA.
+SysAdmin y Técnico de Ciberseguridad. Mi trayectoria viene de la administración de sistemas y redes, y estoy profundizando en ciberseguridad — tanto en el lado ofensivo (pentesting, análisis de vulnerabilidades) como en el defensivo (detección de amenazas, SIEM, respuesta a incidentes).
 
-- 🎓 Máster FP en Ciberseguridad — Institut Tecnològic de Barcelona
-- 💼 Helpdesk Technician · ex Técnico Sistemas y Redes (Proyecto Internacional — Bulgaria)
-- 🛠️ Co-desarrollador de **[Q-Gunter](https://q-gunter.cat)** — plataforma SaaS B2B de pentesting automatizado con agentes IA
-- 🌐 Barcelona, España
+---
+
+## `~/working_on`
+
+- 🚀 Manteniendo y evolucionando **[Q-Gunter](https://q-gunter.cat)** — plataforma SaaS B2B de pentesting automatizado con agentes de IA (Claude tool-use, Docker multi-tenant, arquitectura HA)
+- 🕵️ Desarrollando **[ThreatHunt](https://github.com/gvmmo/threathunt)** — plataforma OSINT para recopilación y análisis de información de fuentes abiertas, desplegada en AWS
+- 🎯 Preparando certificación **eJPT** con camino hacia **OSCP**
 
 ---
 
@@ -93,7 +96,7 @@ Técnico de Ciberseguridad con base en Barcelona. Me muevo entre los dos lados d
 
 ## 🚀 Proyectos
 
-### 🐧 [Q-Gunter](https://q-gunter.cat)
+### 🚀 [Q-Gunter](https://q-gunter.cat)
 Plataforma SaaS B2B de pentesting automatizado con agentes de IA (Claude tool-use), arquitectura Docker multi-tenant y alta disponibilidad. Proyecto en activo desarrollo.
 
 ### 🕵️ [ThreatHunt](https://github.com/gvmmo/threathunt)
@@ -105,8 +108,8 @@ Aplicación web OSINT desarrollada en AWS para recopilación y análisis de info
 
 | Estado | Certificación |
 |--------|--------------|
-| En curso | eJPT — eLearnSecurity Junior Penetration Tester |
-| Próximo | OSCP — Offensive Security Certified Professional |
+| 🎯 En curso | eJPT — eLearnSecurity Junior Penetration Tester |
+| 🔜 Próximo | OSCP — Offensive Security Certified Professional |
 
 ---
 
@@ -123,12 +126,6 @@ Aplicación web OSINT desarrollada en AWS para recopilación y análisis de info
 [![Email](https://img.shields.io/badge/Email-gvmmodafunk@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gvmmodafunk@gmail.com)
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gvmmo&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff&count_private=true" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gvmmo&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff" alt="Top Languages" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=gvmmo&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&dates=ffffff&sideLabels=00ff41" alt="GitHub Streak" />
