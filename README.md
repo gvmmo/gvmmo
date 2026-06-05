@@ -93,7 +93,7 @@ Técnico de Ciberseguridad con base en Barcelona. Me muevo entre los dos lados d
 
 ## 🚀 Proyectos
 
-### 🚀 [Q-Gunter](https://q-gunter.cat)
+### 🐧 [Q-Gunter](https://q-gunter.cat)
 Plataforma SaaS B2B de pentesting automatizado con agentes de IA (Claude tool-use), arquitectura Docker multi-tenant y alta disponibilidad. Proyecto en activo desarrollo.
 
 ### 🕵️ [ThreatHunt](https://github.com/gvmmo/threathunt)
@@ -105,8 +105,8 @@ Aplicación web OSINT desarrollada en AWS para recopilación y análisis de info
 
 | Estado | Certificación |
 |--------|--------------|
-| 🎯 En curso | eJPT — eLearnSecurity Junior Penetration Tester |
-| 🔜 Próximo | OSCP — Offensive Security Certified Professional |
+| En curso | eJPT — eLearnSecurity Junior Penetration Tester |
+| Próximo | OSCP — Offensive Security Certified Professional |
 
 ---
 
